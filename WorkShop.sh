@@ -7,7 +7,3 @@ then
    fi
 done
     echo ${even_number[@]}
-
-
-
-
